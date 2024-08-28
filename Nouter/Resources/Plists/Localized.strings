@@ -1,0 +1,81 @@
+/* 
+  Localized.strings
+  noter
+
+  Created by Рамазан Магомедов on 09.10.2020.
+  Copyright © 2020 Рамазан Магомедов. All rights reserved.
+*/
+
+// MARK: - Common
+
+"done" = "Готово";
+"cancel" = "Отменить";
+"delete" = "Удалить";
+"continue" = "Продолжить";
+"skip" = "Пропустить";
+
+// MARK: - Launch
+
+"launch.title" = "Ноутер делает\nзаметки полезнее";
+"launch.description1" = "Записывай мысли, идеи,\nцитаты, выдержки из книг,\nа мы будем присылать тебе\nих в виде уведомлений";
+"launch.description2" = "Мы уже добавили несколько\nполезных заметок в твой\nсписок. Если что, их можно\nпотом удалить";
+"launch.description3" = "Но для того, чтобы\nуведомления приходили\nв удобное для тебя время\nих нужно настроить";
+"notesAreLoading" = "Загружаем заметки";
+"saveSettings" = "Сохранить настройки";
+"launch.setupSettings" = "Настроить уведомления";
+
+// MARK: - note list
+
+"notes" = "Все заметки";
+"createnote" = "Создать заметку";
+"notesList.emptyTitle" = "Как-то тут пусто";
+"notesList.emptyDescription" = "Чтобы создать заметку, нажмите\nна синюю кнопку в самом низу";
+"noteIsDelete" = "Заметка удалена";
+"noteMoveInFolder" = "Заметка перемещена в папку";
+
+// MARK: - Create note
+
+"note" = "Заметка";
+"note.name" = "Название";
+"note.delete" = "Удалить заметку";
+"note.cancelChanges" = "Отменить изменения";
+
+// MARK: - Settings
+
+"settings" = "Настройки";
+"notifications" = "Уведомления";
+"apperance" = "Внешний вид";
+"reportProblem" = "Написать разработчикам";
+"rateApp" = "Оценить приложение";
+"blog" = "Что нового?";
+"siriCommands" = "Быстрые команды";
+
+// MARK: - Settings notifications
+
+"startTime" = "Время начала";
+"endTime" = "Время окончания";
+"periodicity" = "Периодичность";
+"notificationsDisabledDescription" = "Разрешите отправку уведомлений\nв настройках, чтобы получать\nнапоминания о заметках";
+"openSettings" = "Перейти в настройки";
+"showNotifications" = "Показывать уведомления";
+
+// MARK: - We return
+
+"weReturn.title" = "Мы снова в строю!";
+"weReturn.description" = "Провели работу над ошибками, добавили\nвиджет, а будущие обновления будем\nвыкатывать чаще";
+
+// MARK: - Folders
+
+"folders" = "Папки";
+
+// MARK: - New Folder
+
+"newFolder" = "Создание папки";
+"newFolder.name" = "Название";
+"newFolder.save" = "Сохранить";
+
+// MARK: - Siri Commands
+
+"showRandomNote" = "Показать случайную заметку";
+"siriDescription" = "Быстрые команды Siri позволяют\nвыполнять привычные действия\nс приложением при помощи голоса";
+"addShortcut" = "Добавьте быстрые команды";
