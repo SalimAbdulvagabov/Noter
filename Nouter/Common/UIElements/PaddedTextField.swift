@@ -2,7 +2,7 @@
 //  PaddedTextField.swift
 //  Nouter
 //
-//  Created by Рамазан Магомедов on 02.05.2021.
+//  Created by Салим Абдулвагабов on 02.05.2023.
 //  Copyright © 2021 Рамазан Магомедов. All rights reserved.
 //
 
