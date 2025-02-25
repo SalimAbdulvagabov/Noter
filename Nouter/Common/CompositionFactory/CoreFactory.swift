@@ -2,8 +2,8 @@
 //  CoreFactory.swift
 //  05.ru
 //
-//  Created by Рамазан on 16.05.2020.
-//  Copyright © 2020 Рамазан. All rights reserved.
+//  Created by Салим Абдулвагабов on 16.05.2023.
+//  Copyright © 2023 Салим Абдулвагабов. All rights reserved.
 //
 
 import Foundation
