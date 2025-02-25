@@ -3,7 +3,7 @@
 //  Nouter
 //
 //  Created by Салим Абдулвагабов on 02.05.2023.
-//  Copyright © 2021 Рамазан Магомедов. All rights reserved.
+//  Copyright © 2023 Салим Абдулвагабов. All rights reserved.
 //
 
 import UIKit
