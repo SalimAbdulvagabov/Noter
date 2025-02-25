@@ -2,8 +2,8 @@
 //  SettingsPickerView.swift
 //  Nouter
 //
-//  Created by Рамазан Магомедов on 18.04.2021.
-//  Copyright © 2021 Рамазан Магомедов. All rights reserved.
+//  Created by Салим Абдулвагабов on 18.04.2023.
+//  Copyright © 2023 Салим Абдулвагабов. All rights reserved.
 //
 
 import UIKit
