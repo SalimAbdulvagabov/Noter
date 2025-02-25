@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Nouter
 //
-//  Created by Салим Абдулвагабов on 07.10.2023.
-//  Copyright © 2023 Салим Абдулвагабов . All rights reserved.
+//  Created by Салим Абдулвагабов on 07.10.2022.
+//  Copyright © 2022 Салим Абдулвагабов . All rights reserved.
 //
 
 import UIKit
